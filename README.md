@@ -6,7 +6,6 @@
 - [Project Overview](#project-overview)
 - [Part1: Analyze and Explore the Climate Data](#part1)
 - [Part2: Design Climate App](#part2)
-- [APIs Used & Documentation](#api-documentation)
 
 # Intro to SQL ALCHEMY
 
