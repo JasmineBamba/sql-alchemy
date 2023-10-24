@@ -1,7 +1,7 @@
 ### sql-alchemy
 
 ## Table of Contents
-- [Intro to SQL Alchemy)](#sql-alchemy)
+- [Intro to SQL Alchemy](#sql-alchemy)
 - [What is ORM?](#ORM)
 - [Project Overview](#project-overview)
 - [Part1: Analyze and Explore the Climate Data](#part1)
