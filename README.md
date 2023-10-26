@@ -84,3 +84,12 @@ Closed the SQLAlchemy session to release system resources and complete the analy
 
 ## Part2: Design Climate App
 
+Created a Flask API that allows users to access climate data from the database through these routes, providing useful information such as precipitation, station information, temperature observations, and temperature statistics for specified date ranges. This API can be used to retrieve and analyze climate data easily.
+
+Following routes were created:
+- Homepage Route ("/")
+- Precipitation Route ("/api/v1.0/precipitation")
+- Stations Route ("/api/v1.0/stations"):
+- Temperature Observations Route ("/api/v1.0/tobs")
+- Start and Start-End Routes ("/api/v1.0/<start>" and "/api/v1.0/<start>/<end>")
+
